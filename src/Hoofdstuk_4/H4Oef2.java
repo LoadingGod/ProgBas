@@ -25,6 +25,6 @@ package Hoofdstuk_4;
 	        }
 	        aftrekking = grootsteGetal - kleinsteGetal;
 	        vermenigvuldigdGetal = aftrekking * 5;
-	        System.out.println();
+	        System.out.println( grootsteGetal + " - " + kleinsteGetal + " = " + aftrekking + "\n" + aftrekking + " x 5" + " = " + vermenigvuldigdGetal);
 	    }
 	}
