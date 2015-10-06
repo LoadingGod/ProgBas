@@ -13,7 +13,8 @@ public class Oef_4 {
 		uren = tijd / 3600;
 		minuten = (tijd - (uren *3600))/60;
 		seconden = tijd - (uren *3600) - (minuten *60);
-		System.out.println(uren + " "+ minuten + " "+ seconden);
+		System.out.println(uren + " uren "+ minuten + " minuten "+ seconden + " seconden");
 		
 	}
 }
+
