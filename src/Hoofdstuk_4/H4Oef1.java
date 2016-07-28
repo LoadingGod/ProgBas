@@ -1,7 +1,6 @@
 package Hoofdstuk_4;
 
 import java.util.*;
-import java.lang.Math;
 
 public class H4Oef1 {
 	private static Scanner input = new Scanner(System.in);

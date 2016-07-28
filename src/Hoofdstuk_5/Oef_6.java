@@ -1,7 +1,6 @@
 package Hoofdstuk_5;
 
 import java.util.*;
-import java.math.*;
 
 public class Oef_6 {
 	private static Scanner input = new Scanner(System.in);
