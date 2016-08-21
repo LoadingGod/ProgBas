@@ -19,7 +19,7 @@ public class Oef_18 {
 					facul *= i;
 					System.out.print(i + "x");
 				} else {
-					System.out.print(i);
+					System.out.print( i);
 				}
 			}
 			System.out.println(getal + " != " + facul);
